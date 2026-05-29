@@ -17,7 +17,7 @@ Table 1. Where to find more information
 
 |Item|More information|
 |----|----------------|
-|System requirements|[HCL Sametime® System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0108387)|
+|System requirements|[HCL Sametime® System Requirements](https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0121489)|
 |Planning|-   [Planning the network topology and connectivity](topology.md)|
 |        |-   [Sametime client preferences](config_client_pref_tables.md)|
 |        |-   [Sametime client configuration options](sametime_client_configuration.md)|
